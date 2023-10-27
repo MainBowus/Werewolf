@@ -1,0 +1,2 @@
+# Werewolf
+werewolf random game
